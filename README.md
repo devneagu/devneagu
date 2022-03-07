@@ -1,6 +1,7 @@
 ## Hi there 👋  I'm Mihai and I'm very passionate about Web Development, Automation and smart contracts. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devneagu&label=Profile%20views&color=0e75b6&style=flat" alt="devneagu" /> </p>
 
+<p>Moving slowly into Rust & Yew. Currently Building fast applications in React, NextJS, NodeJS.</p>
 <!--
 **devneagu/devneagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
