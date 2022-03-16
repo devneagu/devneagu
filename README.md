@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=devneagu&theme=react-dark&bg_color=003140&hide_border=true" width="100%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=devneagu&theme=flat&column=7&margin-w=10" alt="logo" height="160" />
 </p>
 
 
