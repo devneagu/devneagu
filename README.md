@@ -1,6 +1,6 @@
 ## Hi there 👋  I'm Mihai and I'm very passionate about Web Development, Automation and smart contracts. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devneagu&label=Profile%20views&color=0e75b6&style=flat" alt="devneagu" /> </p>
-<p>Moving slowly into Rust & Yew. Currently Building fast applications in React, NextJS, NodeJS.</p>
+<p>Moving slowly into React Native, Rust & Yew. Currently Building fast applications in React, NextJS, NodeJS.</p>
 
 <!--
 **devneagu/devneagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,16 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=devneagu&show_icons=true&locale=en" alt="devneagu" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devneagu&" alt="devneagu" />
-    </td>
-   </tr>
-</table>
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=devneagu&theme=react-dark&bg_color=003140&hide_border=true" width="100%"/>
