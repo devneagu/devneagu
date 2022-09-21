@@ -5,7 +5,7 @@
 ##### Hi there 👋 I'm Mihai.
 
 <p>I'm a full-stack developer, currently building with Flutter,NextJS,Supabase & Cloudflare. Focusing on creating devtools, commercial apps & solving bugs. Moreover, looking deeper on how to scale apps to support more load & traffic.</p>
-<p>Currently moving fast into Flutter & slowly into rust. ```Compiled```</p>
+<p>Currently moving fast into Flutter & slowly into rust.</p>
 
 <p>Notable work atm:</p>
 <ul>
